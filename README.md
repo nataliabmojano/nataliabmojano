@@ -1,4 +1,4 @@
-- 👋 Olá, Me chamo Natália Bemfica Mojano, tenho 35 anos e após 11 anos atuando como Nutricionista, decidi fazer uma transição de carreira, atualmente faço garduação em ADS.
+- 👋 Olá, Me chamo Natália Bemfica Mojano, tenho 35 anos e após 11 anos atuando como Nutricionista, decidi fazer uma transição de carreira, atualmente faço graduação em ADS.
 - 👀 Estou interessada em aprender, construir coisas bacanas e me aprofundar no mundo da tecnologia.
 - 🌱 Atualmente estou aprendendo .NET e C#
 -  📫  Como me encontrar natalia.bemfica.mojano@gmail.com ...
